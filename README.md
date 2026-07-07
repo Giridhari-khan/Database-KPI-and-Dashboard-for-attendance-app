@@ -2,6 +2,8 @@
 
 > **One Line Summary**
 > Designed the multi-tenant PostgreSQL database, row-level security model, and admin KPI dashboards for An Attendance App+web - a B2B field-worker attendance SaaS serving multiple client companies on a shared backend.
+### Main 11 tables and ER-Diagram
+![Database ER diagram](assets/er-diagram.png)
 
 ---
 
@@ -82,6 +84,7 @@ A high-level look at the three user tiers, the core data flow, and how the datab
 
 ### Core Flow (One Line)
 
+![Workflow Diagram](assets/workflow-diagram.png)
 > Client Admin creates an employee → shares the login code via WhatsApp → Employee logs in with the code → checks in/out → data flows into the `attendance` table, scoped to their company by RLS → Admin sees it as KPIs on the dashboard.
 
 ---
@@ -160,7 +163,7 @@ KPI cards and charts on the super admin and client admin dashboards surface atte
 ## 📸 Dashboard / Model / Output
 
 <!-- Add screenshots of your KPI dashboard here once available -->
-![Super Admin Dashboard](assets/dashboard-overview.png)
+![Client Dashboard](assets/dashboard_overview.png)
 <!-- Caption: KPI cards showing attendance rate, active headcount, and late check-ins -->
 
 ![RLS Policy Structure](assets/rls-schema-diagram.png)
