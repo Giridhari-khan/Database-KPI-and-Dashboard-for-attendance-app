@@ -226,6 +226,3 @@ The resulting schema and RLS model give TapIn database-enforced tenant isolation
 
 ⭐ *If you found this project useful, consider giving it a star on GitHub!*
 
----
-
-⭐ *If you found this project useful, consider giving it a star on GitHub!*
