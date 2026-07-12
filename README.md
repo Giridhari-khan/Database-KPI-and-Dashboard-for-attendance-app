@@ -218,9 +218,10 @@ The resulting schema and RLS model give TapIn database-enforced tenant isolation
 | Platform | Link |
 |---|---|
 | 🐙 GitHub | [github.com/Giridhari-khan](https://github.com/Giridhari-khan) |
-| 💼 LinkedIn | [your-linkedin-url](https://linkedin.com/in/your-profile) |
+| 💼 LinkedIn | [Linkedin](https://linkedin.com/in/your-profile) |
 | 📊 Dune | [dune.com/giridharikhan](https://dune.com/giridharikhan) |
 | 📧 Email | khangiridhari8967@gmail.com |
+| Tableau Public | [Tableau Public](https://public.tableau.com/app/profile/giridhari.khan/vizzes) |
 
 ---
 
